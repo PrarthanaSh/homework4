@@ -22,11 +22,10 @@ header {
   width: 100%;
 }
 
-#logo :hover{
+#logo{
   opacity: 1;
   -webkit-transition: opacity 3s ease-in;
   transition: opacity 3s ease-in;
-  z-index: 1;
 }
 
 h1 {
@@ -194,11 +193,10 @@ footer{
     width: 300px;
   }
   
-  #logo :hover{
+  #logo{
     opacity: 1;
     -webkit-transition: opacity 3s ease-in;
     transition: opacity 3s ease-in;
-    z-index: 1;
   }
 }
 
